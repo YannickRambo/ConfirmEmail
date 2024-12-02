@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rM5o6E8Z6yz6r/4AuFQBfCLQtSnPasmh3qPPFqvA7GI=",
+  "Source": "ConfirmEmail",
+  "BasePath": "_content/ConfirmEmail",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

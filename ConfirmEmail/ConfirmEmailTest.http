@@ -1,0 +1,6 @@
+@ConfirmEmailTest_HostAddress = http://localhost:5162
+
+GET {{ConfirmEmailTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
